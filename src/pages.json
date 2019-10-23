@@ -1,0 +1,42 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页,
+		{
+			"path": "layout/container",
+			"style": {}
+		},
+		{
+			"path": "pages/home/home",
+			"style": {}
+		},
+		{
+			"path": "pages/moment/moment",
+			"style": {}
+		},
+		{
+			"path": "pages/moment/zhiboList/zhiboList",
+			"style": {}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {}
+		}
+	],
+	// "tabBar": { //模式配置，仅开发期间生效
+	// 	"current": 0, //当前激活的模式（list 的索引项）
+	// 	"selectedColor": "#B2E1C4",
+	// 	"backgroundColor": "white",
+	// 	"list": []
+	// },
+	"globalStyle": {
+		"mp-alipay": {
+			/* 支付宝小程序特有相关 */
+			"transparentTitle": "always",
+			"allowsBounceVertical": "NO"
+		},
+		"backgroundColor":"#FFFFFF",
+		"navigationBarBackgroundColor": "#0081ff",
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "white"
+	},
+	"usingComponts": true
+}
