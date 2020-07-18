@@ -35,7 +35,7 @@
     "@dcloudio/uni-stat": "^2.0.0-23320190923002",
     "@types/axios": "^0.14.0",
     "flyio": "^0.6.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "reflect-metadata": "^0.1.13",
     "regenerator-runtime": "^0.12.1",
     "vue": "^2.6.10",
